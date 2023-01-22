@@ -12,7 +12,7 @@ class CountryArrayAdapter(val countryNames: List<String>, val countryFlags: List
 
     class MyViewHolder(val row: View) : RecyclerView.ViewHolder(row) {
 
-        val textView = row.findViewById<TextView>(R.id.number)
+        val textView = row.findViewById<TextView>(R.id.country_names)
         val imageView = row.findViewById<ImageView>(R.id.imageView)
 
     }
