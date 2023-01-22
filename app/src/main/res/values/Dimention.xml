@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="Elevation">11dp</dimen>
+    <dimen name="Radius">11dp</dimen>
+    <dimen name="itemMargin">7dp</dimen>
+
+
+</resources>
